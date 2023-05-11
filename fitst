@@ -1,0 +1,10 @@
+$ vi script.py
+print("Hello from PqHost!")
+$ python script.py
+$ python -i script.py
+$ vi script.py
+#!/usr/bin/python
+$ chmod ugo+x script.py
+$ ./script.py
+
+
